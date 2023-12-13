@@ -25,7 +25,7 @@ This demo is created using ARKit:
 - Discover a flat surface and tap to launch the game. The stack of boxes will be placed on the surface, allowing the user to interact by hitting the box with the AR ball.
 - Take a look at the demo below:
 
-<img src="https://github.com/SimformSolutionsPvtLtd/Game-With-AR/assets/63225913/cc9d4a69-f0f0-454a-955a-e27e838b7abf" height="640">
+![ARKit Game](https://github.com/SimformSolutionsPvtLtd/Game-With-AR/assets/63225913/58de1010-6a11-4614-91df-f58314922ea5)
 
 ### Find this example useful? ❤️
 
